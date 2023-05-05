@@ -75285,7 +75285,7 @@ e7(a,b){return new A.bQ(A.aLn(b),t.kL)},
 mi(a){return B.b.p(A.a(["en","zh"],t.s),a.gcW(a))},
 lu(a){return!1}}
 A.DW.prototype={
-gM7(){return"Search Restaurants"},
+gM7(){return"Scrape Restaurants Task"},
 gF6(){return"Search restaurants in anywhere: country, city, area..."},
 gC5(a){return"Country"},
 gBV(a){return"City"},
@@ -75303,7 +75303,7 @@ NU(a){return"Finish Scraping: "+a},
 F3(a){return"Scraped Result: "+a+" Total"}}
 A.DX.prototype={
 gM7(){return"\u6293\u53d6\u9910\u5385\u4efb\u52a1"},
-gF6(){return"\u6293\u53d6\u9910\u5385\uff1a\u9910\u5385\u540d\uff0c\u56fd\u5bb6\uff0c\u57ce\u5e02\uff0c\u533a\u57df"},
+gF6(){return"\u641c\u7d22\u9910\u5385\uff1a\u9910\u5385\u540d\uff0c\u56fd\u5bb6\uff0c\u57ce\u5e02\uff0c\u533a\u57df"},
 gC5(a){return"\u56fd\u5bb6"},
 gBV(a){return"\u57ce\u5e02"},
 gBE(){return"\u533a\u57df"},
