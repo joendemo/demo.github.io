@@ -75303,7 +75303,7 @@ NU(a){return"Finish Scraping: "+a},
 F3(a){return"Scraped Result: "+a+" Total"}}
 A.DX.prototype={
 gM7(){return"\u6293\u53d6\u9910\u5385\u4efb\u52a1"},
-gF6(){return"\u641c\u7d22\u9910\u5385\uff1a\u9910\u5385\u540d\uff0c\u56fd\u5bb6\uff0c\u57ce\u5e02\uff0c\u533a\u57df"},
+gF6(){return"\u641c\u7d22\u9910\u5385\uff1a\u6309\u9910\u5385\u540d\u3001\u56fd\u5bb6\u3001\u57ce\u5e02\u3001\u533a\u57df"},
 gC5(a){return"\u56fd\u5bb6"},
 gBV(a){return"\u57ce\u5e02"},
 gBE(){return"\u533a\u57df"},
@@ -77182,7 +77182,7 @@ A.qc.prototype={}
 A.a5m.prototype={}
 A.Lv.prototype={
 N(a){var s=null
-return new A.uN(new A.t_(new A.a6Q(),s,s,s,A.aLl(),A.aKa(),t.Cx),s,s,new A.wZ(new A.xm(s),"My Demo",A.avS(s,A.aCb(B.ac,B.Xt),!0),B.Qo,B.Nx,s),s,t.nO)}}
+return new A.uN(new A.t_(new A.a6Q(),s,s,s,A.aLl(),A.aKa(),t.Cx),s,s,new A.wZ(new A.xm(s),"Restaurant Scraper",A.avS(s,A.aCb(B.ac,B.Xt),!0),B.Qo,B.Nx,s),s,t.nO)}}
 A.a6Q.prototype={
 $1(a){var s=$.asr(),r=A.ay5(2,s,!0,1e4)
 return new A.lB(r.gP(r),A.a([],t.q0),$.bv())},
